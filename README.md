@@ -1,6 +1,6 @@
 # Learning programming from [exercism.org](https://exercism.org/)
 
-## Profile : [PHANGWilly](https://exercism.org/profiles/PHANGWilly)
+## Profile : [phang-willy](https://exercism.org/profiles/phang-willy)
 
 | Languages | Status | Link |
 | -------- | ------- | -------- |
